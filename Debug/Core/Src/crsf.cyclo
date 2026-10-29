@@ -1,0 +1,17 @@
+../Core/Inc/crsf.h:89:24:CRSF_RawToUs	1
+../Core/Src/crsf.c:47:16:CRSF_Crc8	4
+../Core/Src/crsf.c:62:13:CRSF_UnpackChannels	3
+../Core/Src/crsf.c:85:13:CRSF_ParseLinkStats	1
+../Core/Src/crsf.c:100:13:CRSF_HandleFrame	6
+../Core/Src/crsf.c:134:13:CRSF_ParseByte	12
+../Core/Src/crsf.c:174:13:CRSF_Feed	2
+../Core/Src/crsf.c:182:26:CRSF_StartReception	1
+../Core/Src/crsf.c:199:19:CRSF_Init	4
+../Core/Src/crsf.c:225:6:CRSF_RxEventCallback	6
+../Core/Src/crsf.c:260:6:CRSF_ErrorCallback	4
+../Core/Src/crsf.c:278:10:CRSF_GetChannelRaw	2
+../Core/Src/crsf.c:290:10:CRSF_GetChannelUs	2
+../Core/Src/crsf.c:302:6:CRSF_GetChannels	2
+../Core/Src/crsf.c:317:6:CRSF_IsLinkActive	5
+../Core/Src/crsf.c:337:6:CRSF_GetLinkStats	1
+../Core/Src/crsf.c:349:6:CRSF_GetStats	1

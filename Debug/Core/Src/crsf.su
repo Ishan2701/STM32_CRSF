@@ -1,0 +1,17 @@
+../Core/Inc/crsf.h:89:24:CRSF_RawToUs	16	static
+../Core/Src/crsf.c:47:16:CRSF_Crc8	24	static
+../Core/Src/crsf.c:62:13:CRSF_UnpackChannels	24	static
+../Core/Src/crsf.c:85:13:CRSF_ParseLinkStats	16	static
+../Core/Src/crsf.c:100:13:CRSF_HandleFrame	16	static
+../Core/Src/crsf.c:134:13:CRSF_ParseByte	16	static
+../Core/Src/crsf.c:174:13:CRSF_Feed	24	static
+../Core/Src/crsf.c:182:26:CRSF_StartReception	16	static
+../Core/Src/crsf.c:199:19:CRSF_Init	24	static
+../Core/Src/crsf.c:225:6:CRSF_RxEventCallback	24	static
+../Core/Src/crsf.c:260:6:CRSF_ErrorCallback	16	static
+../Core/Src/crsf.c:278:10:CRSF_GetChannelRaw	16	static
+../Core/Src/crsf.c:290:10:CRSF_GetChannelUs	16	static
+../Core/Src/crsf.c:302:6:CRSF_GetChannels	32	static,ignoring_inline_asm
+../Core/Src/crsf.c:317:6:CRSF_IsLinkActive	8	static
+../Core/Src/crsf.c:337:6:CRSF_GetLinkStats	32	static,ignoring_inline_asm
+../Core/Src/crsf.c:349:6:CRSF_GetStats	32	static,ignoring_inline_asm
